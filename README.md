@@ -25,7 +25,7 @@
 ### go
 
 ```sh
-go install github.com/dimboknv/p24-cli
+go install github.com/dimboknv/p24-cli@latest
 p24-cli version
 ```
 
